@@ -14,7 +14,7 @@ and create impactful digital solutions." <br/>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif">
 
 - 🌱 I’m currently Mastering **React** <br/>
--  Currently working as aIntern at Qwikspark Technologies, Remote <br/>
+-  Currently working as Intern at Qwikspark Technologies, Remote <br/>
 - 📫 How to reach me **vikramvk2003@gmail.com** <br/>
 <br/>
 
