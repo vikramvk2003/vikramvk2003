@@ -50,7 +50,7 @@ and create impactful digital solutions." <br/>
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/vikramvk2003"><img alt="sivasaikumarssk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikramvk2003&custom_title=vikramvk2003's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/vikramvk2003"><img alt="vikramvk2003's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikramvk2003&custom_title=vikramvk2003's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
